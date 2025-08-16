@@ -50,15 +50,6 @@ pip install -r requirements.txt
 
 Run scripts or notebooks as needed.
 
-## Screenshots
-
-<img width="1489" height="490" alt="image" src="https://github.com/user-attachments/assets/537a0172-bf45-4011-825f-2b8531cc09e8" />
-
-<img width="616" height="590" alt="image" src="https://github.com/user-attachments/assets/ecd346ec-3933-4a95-b649-7ba32eccbe48" />
-
-<img width="686" height="547" alt="image" src="https://github.com/user-attachments/assets/2d88d407-3ae9-4bfa-8f35-f43d52296767" />
-
-<img width="859" height="616" alt="image" src="https://github.com/user-attachments/assets/7ab75bac-4e5d-4122-afcf-91a2e371a5e1" />
 
 ## License
 
